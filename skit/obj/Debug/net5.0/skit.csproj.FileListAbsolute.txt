@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\skit\bin\Debug\net5.0\skit.exe
+C:\Users\Admin\Desktop\skit\bin\Debug\net5.0\skit.deps.json
+C:\Users\Admin\Desktop\skit\bin\Debug\net5.0\skit.runtimeconfig.json
+C:\Users\Admin\Desktop\skit\bin\Debug\net5.0\skit.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\skit\bin\Debug\net5.0\skit.dll
+C:\Users\Admin\Desktop\skit\bin\Debug\net5.0\ref\skit.dll
+C:\Users\Admin\Desktop\skit\bin\Debug\net5.0\skit.pdb
+C:\Users\Admin\Desktop\skit\obj\Debug\net5.0\skit.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\skit\obj\Debug\net5.0\skit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\skit\obj\Debug\net5.0\skit.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\skit\obj\Debug\net5.0\skit.AssemblyInfo.cs
+C:\Users\Admin\Desktop\skit\obj\Debug\net5.0\skit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\skit\obj\Debug\net5.0\skit.dll
+C:\Users\Admin\Desktop\skit\obj\Debug\net5.0\ref\skit.dll
+C:\Users\Admin\Desktop\skit\obj\Debug\net5.0\skit.pdb
+C:\Users\Admin\Desktop\skit\obj\Debug\net5.0\skit.genruntimeconfig.cache
