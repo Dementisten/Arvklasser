@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Personelevanställd\bin\Debug\net5.0\Personelevanställd.exe
+C:\Users\Admin\Desktop\Personelevanställd\bin\Debug\net5.0\Personelevanställd.deps.json
+C:\Users\Admin\Desktop\Personelevanställd\bin\Debug\net5.0\Personelevanställd.runtimeconfig.json
+C:\Users\Admin\Desktop\Personelevanställd\bin\Debug\net5.0\Personelevanställd.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Personelevanställd\bin\Debug\net5.0\Personelevanställd.dll
+C:\Users\Admin\Desktop\Personelevanställd\bin\Debug\net5.0\ref\Personelevanställd.dll
+C:\Users\Admin\Desktop\Personelevanställd\bin\Debug\net5.0\Personelevanställd.pdb
+C:\Users\Admin\Desktop\Personelevanställd\obj\Debug\net5.0\Personelevanställd.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Personelevanställd\obj\Debug\net5.0\Personelevanställd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Personelevanställd\obj\Debug\net5.0\Personelevanställd.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Personelevanställd\obj\Debug\net5.0\Personelevanställd.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Personelevanställd\obj\Debug\net5.0\Personelevanställd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Personelevanställd\obj\Debug\net5.0\Personelevanställd.dll
+C:\Users\Admin\Desktop\Personelevanställd\obj\Debug\net5.0\ref\Personelevanställd.dll
+C:\Users\Admin\Desktop\Personelevanställd\obj\Debug\net5.0\Personelevanställd.pdb
+C:\Users\Admin\Desktop\Personelevanställd\obj\Debug\net5.0\Personelevanställd.genruntimeconfig.cache
