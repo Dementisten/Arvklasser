@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Personelevanställd\\Personelevanställd.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\skr-p-main\\skr-p-main\\Personelevanställd\\Personelevanställd.csproj",
       "projectName": "Personelevanställd",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Personelevanställd\\Personelevanställd.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\skr-p-main\\skr-p-main\\Personelevanställd\\Personelevanställd.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Personelevanställd\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\skr-p-main\\skr-p-main\\Personelevanställd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
