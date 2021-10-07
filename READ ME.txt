@@ -1,0 +1,2 @@
+Ignorera "skit" mappen.
+Kunde för någon anledning inte skapa en ny repository så fick ladda upp i en gammal.
